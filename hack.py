@@ -14,8 +14,8 @@ import requests
 from PIL import Image
 
 # قم بإضافة التوكن الخاص بك هنا
-bot_token = 'Your Token'
-chat_id = 'Your ID'
+bot_token = '8799179630:AAF7v5kN0TCUOJIxEe0o13CjNh03XUMYIOA'
+chat_id = '8257838905'
 
 # تعريف الكائن bot
 bot = telebot.TeleBot(bot_token)
